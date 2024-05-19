@@ -1,38 +1,34 @@
-    <h1>Todo List Project</h1>
+# Todo List Project
 
-    <p>A simple web-based Todo List application built with HTML, CSS, and JavaScript.</p>
+![Todo List Demo](demo.gif)
 
-    <h2>Description</h2>
+## Table of Contents
 
-    <p>This project is a web application that allows users to manage their tasks by adding, editing, marking as completed, and deleting todo items. It provides a user-friendly interface to interact with the todo list.</p>
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How to Use](#how-to-use)
 
-    <h2>Features</h2>
+## Overview
 
-    <ul>
-        <li>Add new todo items</li>
-        <li>Edit existing todo items</li>
-        <li>Mark todo items as completed</li>
-        <li>Delete todo items</li>
-        <li>Responsive design for mobile and desktop browsers</li>
-    </ul>
+This project is a sleek and modern Todo List application built using HTML, CSS, and JavaScript. It provides an intuitive interface for managing tasks and staying organized.
 
-    <h2>Technologies Used</h2>
+## Features
 
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-    </ul>
+- Add new todo items
+- Edit existing todo items
+- Mark todo items as completed
+- Delete todo items
+- Responsive design for mobile and desktop browsers
 
-    <h2>How to Use</h2>
+## Technologies Used
 
-    <ol>
-        <li>Clone this repository to your local machine:</li>
-    </ol>
+- HTML
+- CSS
+- JavaScript
 
-    <pre><code>git clone https://github.com/your-username/todo-list.git</code></pre>
+## How to Use
 
-    <ol start="2">
-        <li>Open the <code>index.html</code> file in your web browser.</li>
-        <li>Start managing your todo list by adding, editing, completing, and deleting tasks.</li>
-    </ol>
+1. Clone this repository to your local machine:
+   ```sh
+   git clone https://github.com/your-username/todo-list.git
